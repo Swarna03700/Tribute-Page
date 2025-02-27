@@ -61,3 +61,10 @@ body {
     margin: 10px 0;
   }
   
+
+ .video-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+}
